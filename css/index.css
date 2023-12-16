@@ -1,0 +1,47 @@
+
+p{
+    font-family: 'Poppins', sans-serif;
+}
+
+.display-5{
+    font-family: 'DM Sans', sans-serif;
+}
+
+.navftext{
+    font-family: 'Poppins', sans-serif;
+}
+
+.bgtop {
+    background: linear-gradient(rgba(0, 0, 0, 0.137),rgba(0,0,0,0.7)), url(../images/elNido.avif);
+    background-size: cover;
+    min-height: 50vh;
+    position: relative;
+    color: white
+}
+
+.place-to-visit-container{
+    background-color: rgb(247, 247, 247);
+}
+
+#navtext{
+    color: rgb(255, 255, 255);
+}
+
+.needswhite{
+    color: rgb(255, 255, 255);
+}
+
+.makapal{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.color-overlay{
+    background-color: rgba(0, 0, 0, 0.342);
+}
+
+
+@media (max-width: 992px) {
+    .gitna{
+        text-align: center;
+    }
+}

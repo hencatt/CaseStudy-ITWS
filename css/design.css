@@ -1,0 +1,59 @@
+header a{
+    font-family: var(--Single-font);
+    font-size: 0.9em;
+    color: whitesmoke;
+}
+
+header{
+    background: #dd2476;
+
+
+}
+
+header .nav-item:last-child{
+    padding-right: 10.5em;
+}
+
+header .nav-item{
+    padding: 0.9em;
+}
+
+header .navbar-brand{
+    padding-left: 8em;
+}
+
+header .nav-link:hover{
+    color: black;
+}
+
+.section-4 .container h1{
+    font-size: 6vmin;
+    padding-top: 14vmin;
+}
+
+.section-4 .team{
+    padding: 10vmin 4vmin;
+}
+
+.section-4 .card .card-text{
+    padding: 0.5em;
+}
+
+.section-4 .card .card-body a{
+    font-size: 1.5em;
+}
+
+footer {
+    background-color: #3a3a3a;
+    
+}
+
+footer a {
+    color: white;
+
+}
+
+footer a:hover {
+    color: #dfdfdf;
+
+}
